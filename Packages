@@ -1,6 +1,6 @@
 Package: com.yasunick.AirvideoTV
 Version: 1.2 
-Architecture: tvos-arm
+Architecture: appletvos-arm64
 Maintainer: yasunick <yasunick@gmail.com>
 Filename: AirVideoTV.deb
 Size: 1318624
