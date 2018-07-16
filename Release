@@ -1,0 +1,8 @@
+Origin: Yasunick's repo
+Label: Yasunick's repo
+Suite: stable
+Version: 1.0
+Codename: tvOS
+Architectures: tvos-arm
+Components: main
+Description: Yasunick's repo
