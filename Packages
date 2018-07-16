@@ -1,14 +1,13 @@
-Package: <package>
-Version: <version>
+Package: com.yasunick.AirvideoTV
+Version: 1.2 
 Architecture: tvos-arm
 Maintainer: yasunick <yasunick@gmail.com>
-Depends: <bundleid>
-Filename: deb//<deb>
-Size: <deb in bytes>
-MD5sum: <md5 hash of deb>
-SHA1: <sha1 hash of deb>
-SHA256: <sha256 hash of deb>
-Section: <section on your repo>
-Description: <discription>
+Filename: AirVideoTV.deb
+Size: 1318624
+MD5sum: 5060b7454449d70b3e49ec5c537de31a
+SHA1: f730b3f8252d6d3b2fcab6e2ac8a988d348065b5
+SHA256: e9d009345eebc78da2357b8e9ca6c9bd60bf688a45d2d770bf0910b9e5cfb46e
+Section:Application
+Description: watch movies on your apple tv from your mac
 Author: yasunick <yasunick@gmail.com>
-Name: tweakname
+Name: AirVideoTV
