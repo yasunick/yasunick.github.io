@@ -1,0 +1,14 @@
+Package: <package>
+Version: <version>
+Architecture: tvos-arm
+Maintainer: yasunick
+Depends: <bundleid>
+Filename: deb//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 hash of deb>
+Section: <section on your repo>
+Description: <discription>
+Author: yasunick
+Name: tweakname
