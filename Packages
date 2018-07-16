@@ -1,7 +1,7 @@
 Package: <package>
 Version: <version>
 Architecture: tvos-arm
-Maintainer: yasunick
+Maintainer: yasunick <yasunick@gmail.com>
 Depends: <bundleid>
 Filename: deb//<deb>
 Size: <deb in bytes>
@@ -10,5 +10,5 @@ SHA1: <sha1 hash of deb>
 SHA256: <sha256 hash of deb>
 Section: <section on your repo>
 Description: <discription>
-Author: yasunick
+Author: yasunick <yasunick@gmail.com>
 Name: tweakname
