@@ -1,7 +1,0 @@
-Package: com.yasunick.AirvideoTV
-Version: 1.2
-Name: AirvideoTV
-Section: Application
-Description: watch movies from your pc.
-Architecture: darwin-arm64, appletvos-arm64
-Author: yasunick
