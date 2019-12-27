@@ -1,0 +1,18 @@
+Package: com.yasunick.AirvideoTV
+Version: 1.2
+Name: AirvideoTV
+Section: Multimedia
+Description: watch movies from your pc.
+Architecture: tvos-arm
+Author: yasunick
+
+Package: applesucks.popcorntime_3.2.35_appletvos-arm64.deb
+Version: 3.2.35
+Architecture: appletvos-arm64
+Filename: ./deb/applesucks.popcorntime_3.2.35_appletvos-arm64.deb
+Size: 100753340
+Section: Application
+Priority: standard
+Homepage: hhttps://github.com/PopcornTimeTV/PopcornTimeTV
+Description: Watch movies & TV-series
+Name: popcorntime
